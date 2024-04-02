@@ -1,7 +1,8 @@
 #!/bin/bash
 
+# Function to add spaces between commands
 space() {
-	printf "\n\n"
+	printf "\n\n\n\n\n"
 	}
 
 cd bin
